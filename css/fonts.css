@@ -1,0 +1,53 @@
+/* Roboto */
+
+@font-face {
+    src: url(../fonts/Roboto/Roboto-Medium.ttf);
+    font-family: "Roboto";
+    font-weight: 500;
+}
+
+@font-face {
+    src: url(../fonts/Roboto/Roboto-Regular.ttf);
+    font-family: "Roboto";
+    font-weight: 400;
+}
+
+/* Roboto */
+
+/* FredokaOne */
+
+@font-face {
+    src: url(../fonts/Fredoka_One/FredokaOne-Regular.ttf);
+    font-family: "FredokaOne";
+    font-weight: 400;
+}
+
+/* FredokaOne */
+
+/* HindMadurai */
+
+@font-face {
+    src: url(../fonts/Hind_Madurai/HindMadurai-Bold.ttf);
+    font-family: "HindMadurai";
+    font-weight: 700;
+}
+
+@font-face {
+    src: url(../fonts/Hind_Madurai/HindMadurai-Regular.ttf);
+    font-family: "HindMadurai";
+    font-weight: 400;
+}
+
+@font-face {
+    src: url(../fonts/Hind_Madurai/HindMadurai-Medium.ttf);
+    font-family: "HindMadurai";
+    font-weight: 500;
+}
+
+@font-face {
+    src: url(../fonts/Hind_Madurai/HindMadurai-SemiBold.ttf);
+    font-family: "HindMadurai";
+    font-weight: 600;
+}
+
+/* HindMadurai */
